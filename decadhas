@@ -78,7 +78,69 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 </channel>
 
-</channels>
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channel>
+
+<name>[B][COLOR aquamarine]Cinema 2000[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/003/387/186/original/1629306660845.jpg?1629306705</thumbnail>
+
+<externallink>https://github.com/viko02/cinemah2000/raw/main/cinemah2000</externallink>
+
+<fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
+
+<info>[COLOR aquamarine]Uma seleção de filmes que a emissora de TV plim plim exibia nos anos 2000.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]Cinema 2002[/COLOR][/B]</name>
+
+<thumbnail>https://i.imgur.com/OetK1QX.jpg</thumbnail>
+
+<externallink>https://github.com/viko02/cinemah2002/raw/main/cinemah2002</externallink>
+
+<fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
+
+<info>[COLOR aquamarine] Uma seleção de filmes aleatórios para essa semana.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]Cinema 2003[/COLOR][/B]</name>
+
+<thumbnail>https://i.imgur.com/hExraL1.jpg</thumbnail>
+
+<externallink>https://github.com/viko02/cinemah2003/raw/main/cinemah2003</externallink>
+
+<fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
+
+<info>[COLOR aquamarine]Uma seleção de filmes que a emissora plin plin exibia no ano de 2003.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]Cinema 2015[/COLOR][/B]</name>
+
+<thumbnail>https://i.imgur.com/KfiI46f.jpg</thumbnail>
+
+<externallink>https://github.com/viko02/cinemah2015/raw/main/cinemah2015</externallink>
+
+<fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
+
+<info>[COLOR aquamarine]Uma seleção de filmes que a emissora do Silvio exibia no ano de 2015.[/COLOR]</info>
+
+</channel>
+
+
+</channels>
